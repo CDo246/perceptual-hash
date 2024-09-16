@@ -1,0 +1,8 @@
+.envrc
+shell.nix
+.venv
+.direnv
+dataset
+dataset*
+__pycache__
+cache
